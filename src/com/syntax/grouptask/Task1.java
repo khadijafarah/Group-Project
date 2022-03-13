@@ -1,14 +1,11 @@
 package com.syntax.grouptask;
 import java.util.Scanner;
-public class Task1 {
 
+public class Task1 {
 	public static void main(String[] args) {
-		 // TODO Auto-generated method stub
-		
-		
-	  //task1
-	 //Create an array on Int values using a scanner and 
-	//calculate the sum of all stored elements in that array.
+	  	//task1
+	 	//Create an array on Int values using a scanner and
+		//calculate the sum of all stored elements in that array.
 		
 		Scanner scan=new Scanner(System.in);
 		int sum=0;
